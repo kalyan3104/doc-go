@@ -2,13 +2,6 @@ The erd1qqqqqqqqqqqqqpgq prefix is common in addresses generated in the Multiver
 
 The suffix 0g4pxn2tzj3h6uf9dhn5z36rz80n2pzqyl5s3skep7 varies because it represents the unique identifier for each address, which is typically derived from the specific public key or other unique data used in address generation.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-topics[0] - the address bytes of the deployed contract base64 encoded
-topics[1] - the address bytes of the deployer of the smart contract base64 encoded
-topics[2] - the code hash bytes of the deployer smart contract base64 encoded
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 Addresses are generated using the provided code links.
 
 https://github.com/multiversx/mx-sdk-rs/blob/a7dd92b62e1eb9fcf623039ad88ec1b4bf335bd1/chain/core/src/types/address.rs # rust
